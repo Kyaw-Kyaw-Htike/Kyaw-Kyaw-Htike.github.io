@@ -1,33 +1,101 @@
-# Kyaw-Kyaw-Htike.github.io
+<h1>Note: this website may not be up-to-date, due to time constraints.</h1>
 
-
-Dr. Kyaw Kyaw Htike @ Ali Abdul Ghafur
-
-<https://kyaw-kyaw-htike.github.io>
-
-<https://kyaw.xyz>
+<p>Dr. Kyaw Kyaw Htike @ Ali Abdul Ghafur</p>
 
 <h1>Dr. Kyaw Kyaw Htike @ Ali Abdul Ghafur</h1>
 <p><a href="https://kyaw.xyz/" target="_blank">Kyaw Kyaw Htike @ Ali Abdul Ghafur</a></p>
 <p><a href="https://kyaw.xyz" target="_blank">Personal Website</a></p>
-<p><a href="https://scholar.google.com/citations?user=sJUqI78AAAAJ&amp;hl=en" target="_blank">Google scholar</a></p>
-<p><a href="https://github.com/Kyaw-Kyaw-Htike" target="_blank">GitHub Repositories</a></p>
-<p><a href="https://kyaw-kyaw-htike.github.io" target="_blank">GitHub Website</a></p>
-<p><a href="https://www.linkedin.com/in/kyaw-kyaw-htike" target="_blank">LinkedIn</a></p>
-<p><a href="https://plus.google.com/113097086879117219471" target="_blank">Google Plus</a></p>
-<p><a href="https://www.researchgate.net/scientific-contributions/2003995147_Kyaw_Kyaw_Htike" target="_blank">ResearchGate</a></p>
-<p><a href="http://dblp2.uni-trier.de/pers/hd/h/Htike:Kyaw_Kyaw" target="_blank">dblp (computer science bibliography)</a></p>
-<p><a href="https://ieeexplore.ieee.org/author/37547453800" target="_blank">IEEE Xplore Digital Library author details</a></p>
-<p><a href="https://sites.google.com/view/kyaw" target="_blank">https://sites.google.com/view/kyaw</a></p>
-<p><a href="https://twitter.com/kyaw_kyaw_htike" target="_blank">Twitter</a></p>
-<p><a href="https://www.pinterest.com/alikyaw/" target="_blank">PInterest</a></p>
-<p><a href="https://www.instagram.com/ali_kyaw/?hl=en" target="_blank">Instagram</a></p>
-<p><a href="https://www.youtube.com/channel/UCRx2VJ5DwjdudLQimThsINw" target="_blank">YouTube</a></p>
-<p><a href="https://www.kaggle.com/kyawkyawhtike" target="_blank">Kaggle</a></p>
 
+<h1>Personal Info</h1>
 
-<h1>List of some of the GitHub repositories</h1>
-  
+<ul>
+ 	<li>Official name: <a href="https://kyaw.xyz/about/" rel="noopener">Kyaw Kyaw Htike</a>
+<ul>
+ 	<li>First name: <a href="https://kyaw.xyz/about/" rel="noopener">Kyaw Kyaw</a></li>
+ 	<li>Last name: <a href="https://kyaw.xyz/about/" rel="noopener">Htike</a></li>
+</ul>
+</li>
+ 	<li>Alias:
+<ul>
+ 	<li>Full: <a href="https://kyaw.xyz/about/" rel="noopener">Muhammad Ali Abdul Ghafur</a></li>
+ 	<li>Short: <a href="https://kyaw.xyz/about/" rel="noopener">Ali Abdul Ghafur</a></li>
+</ul>
+</li>
+ 	<li>Online profiles:
+<ul>
+ 	<li><a href="https://scholar.google.com/citations?user=sJUqI78AAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Google scholar</a>
+<ul>
+ 	<li><a href="https://scholar.google.com/citations?user=sJUqI78AAAAJ&amp;hl=en" target="_blank" rel="noopener">https://scholar.google.com/citations?user=sJUqI78AAAAJ&amp;hl=en</a></li>
+</ul>
+</li>
+ 	<li><a href="https://github.com/Kyaw-Kyaw-Htike" target="_blank" rel="noopener noreferrer">GitHub repositories</a>
+<ul>
+ 	<li><a href="https://github.com/Kyaw-Kyaw-Htike" target="_blank" rel="noopener">https://github.com/Kyaw-Kyaw-Htike</a></li>
+</ul>
+</li>
+ 	<li><a href="https://kyaw-kyaw-htike.github.io/" target="_blank" rel="noopener noreferrer">GitHub Website</a>
+<ul>
+ 	<li><a href="https://kyaw-kyaw-htike.github.io" target="_blank" rel="noopener">https://kyaw-kyaw-htike.github.io</a></li>
+</ul>
+</li>
+ 	<li><a href="https://www.linkedin.com/in/kyaw-kyaw-htike" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+<ul>
+ 	<li><a href="https://www.linkedin.com/in/kyaw-kyaw-htike" target="_blank" rel="noopener">https://www.linkedin.com/in/kyaw-kyaw-htike</a></li>
+</ul>
+</li>
+ 	<li><a href="https://www.researchgate.net/scientific-contributions/2003995147_Kyaw_Kyaw_Htike" target="_blank" rel="noopener noreferrer">ResearchGate</a>
+<ul>
+ 	<li><a href="https://www.researchgate.net/scientific-contributions/2003995147_Kyaw_Kyaw_Htike" target="_blank" rel="noopener">https://www.researchgate.net/scientific-contributions/2003995147_Kyaw_Kyaw_Htike</a></li>
+</ul>
+</li>
+ 	<li><a href="http://dblp2.uni-trier.de/pers/hd/h/Htike:Kyaw_Kyaw" target="_blank" rel="noopener noreferrer">dblp (computer science bibliography)</a>
+<ul>
+ 	<li><a href="http://dblp2.uni-trier.de/pers/hd/h/Htike:Kyaw_Kyaw" target="_blank" rel="noopener">http://dblp2.uni-trier.de/pers/hd/h/Htike:Kyaw_Kyaw</a></li>
+</ul>
+</li>
+ 	<li><a href="https://ieeexplore.ieee.org/author/37547453800" target="_blank" rel="noopener noreferrer">IEEE Xplore Digital Library author details</a>
+<ul>
+ 	<li><a href="https://ieeexplore.ieee.org/author/37547453800" target="_blank" rel="noopener">https://ieeexplore.ieee.org/author/37547453800</a></li>
+</ul>
+</li>
+ 	<li><a href="https://sites.google.com/view/kyaw" target="_blank" rel="noopener">Google site</a>
+<ul>
+ 	<li><a href="https://sites.google.com/view/kyaw" target="_blank" rel="noopener noreferrer">https://sites.google.com/view/kyaw</a></li>
+</ul>
+</li>
+ 	<li><a href="https://twitter.com/kyaw_kyaw_htike" target="_blank" rel="noopener">Twitter</a>
+<ul>
+ 	<li><a href="https://twitter.com/kyaw_kyaw_htike" target="_blank" rel="noopener noreferrer">https://twitter.com/kyaw_kyaw_htike</a></li>
+</ul>
+</li>
+ 	<li><a href="https://www.pinterest.com/alikyaw" target="_blank" rel="noopener">Pinterest</a>
+<ul>
+ 	<li><a href="https://www.pinterest.com/alikyaw/" target="_blank" rel="noopener noreferrer">https://www.pinterest.com/alikyaw</a></li>
+</ul>
+</li>
+ 	<li><a href="https://www.instagram.com/ali_kyaw/?hl=en" target="_blank" rel="noopener">Instagram</a>
+<ul>
+ 	<li><a href="https://www.instagram.com/ali_kyaw/?hl=en" target="_blank" rel="noopener noreferrer">https://www.instagram.com/ali_kyaw/?hl=en</a></li>
+</ul>
+</li>
+ 	<li><a href="https://www.youtube.com/channel/UCRx2VJ5DwjdudLQimThsINw" target="_blank" rel="noopener">YouTube</a>
+<ul>
+ 	<li><a href="https://www.youtube.com/channel/UCRx2VJ5DwjdudLQimThsINw" target="_blank" rel="noopener noreferrer">https://www.youtube.com/channel/UCRx2VJ5DwjdudLQimThsINw</a></li>
+</ul>
+</li>
+ 	<li><a href="https://www.kaggle.com/kyawkyawhtike" target="_blank" rel="noopener">Kaggle</a>
+<ul>
+ 	<li><a href="https://www.kaggle.com/kyawkyawhtike" target="_blank" rel="noopener">https://www.kaggle.com/kyawkyawhtike</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+<h1>Links to Selected GitHub Repositories</h1>
+
+Below is a collection of some of the <a href="https://github.com/Kyaw-Kyaw-Htike" target="_blank" rel="noopener noreferrer">GitHub</a> repositories. Only some of the non-work-related materials done at out-of-office hours are in the public github repositories. Work-related algorithms and source code for projects at work, and most other personal projects cannot be revealed due to confidential nature.
+
 <ol>
 	<li><a href="https://github.com/Kyaw-Kyaw-Htike/Data_Processing_driven_Qt_GUI" target="_blank" rel="noopener noreferrer">Data_Processing_driven_Qt_GUI</a></li>
 	<li><a href="https://github.com/Kyaw-Kyaw-Htike/Custom-Backup-Important-Files-in-PC" target="_blank" rel="noopener noreferrer">Custom-Backup-Important-Files-in-PC</a></li>
@@ -85,4 +153,157 @@ Dr. Kyaw Kyaw Htike @ Ali Abdul Ghafur
 	<li><a href="https://github.com/Kyaw-Kyaw-Htike/weakly-supervised-training-pedestrian-detector" target="_blank" rel="noopener noreferrer">weakly-supervised-training-pedestrian-detector</a></li>
 </ol>
 
+<h1>Links to Selected Publications Online</h1>
 
+<ul>
+ 	<li><a href="https://link.springer.com/article/10.1007/s00500-016-2434-1" target="_blank" rel="noopener">Forests of unstable hierarchical clusters for pattern classification</a>
+<ul>
+ 	<li><a href="https://link.springer.com/article/10.1007/s00500-016-2434-1" target="_blank" rel="noopener">https://link.springer.com/article/10.1007/s00500-016-2434-1</a></li>
+</ul>
+</li>
+ 	<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197616000336" target="_blank" rel="noopener">Adapting pedestrian detectors to new domains: a comprehensive review</a>
+<ul>
+ 	<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197616000336" target="_blank" rel="noopener">https://www.sciencedirect.com/science/article/abs/pii/S0952197616000336</a></li>
+</ul>
+</li>
+ 	<li><a href="https://www.tandfonline.com/doi/abs/10.1080/0952813X.2016.1266038?journalCode=teta20" target="_blank" rel="noopener">Efficient determination of the number of weak learners in AdaBoost</a>
+<ul>
+ 	<li><a href="https://www.tandfonline.com/doi/abs/10.1080/0952813X.2016.1266038?journalCode=teta20" target="_blank" rel="noopener">https://www.tandfonline.com/doi/abs/10.1080/0952813X.2016.1266038?journalCode=teta20</a></li>
+</ul>
+</li>
+ 	<li><a href="https://www.inderscienceonline.com/doi/abs/10.1504/IJCSE.2018.096025" target="_blank" rel="noopener">Predicting rainfall using neural nets</a>
+<ul>
+ 	<li><a href="https://www.inderscienceonline.com/doi/abs/10.1504/IJCSE.2018.096025" target="_blank" rel="noopener">https://www.inderscienceonline.com/doi/abs/10.1504/IJCSE.2018.096025</a></li>
+</ul>
+</li>
+ 	<li><a href="http://www.informatica.si/index.php/informatica/article/view/1397" target="_blank" rel="noopener">Hidden-layer ensemble fusion of MLP neural networks for pedestrian detection</a>
+<ul>
+ 	<li><a href="http://www.informatica.si/index.php/informatica/article/view/1397" target="_blank" rel="noopener">http://www.informatica.si/index.php/informatica/article/view/1397</a></li>
+</ul>
+</li>
+ 	<li><a href="https://www.inderscienceonline.com/doi/abs/10.1504/IJISTA.2017.084239" target="_blank" rel="noopener">A review on data-driven learning of a talking head model</a>
+<ul>
+ 	<li><a href="https://dl.acm.org/citation.cfm?id=3100304" target="_blank" rel="noopener">https://dl.acm.org/citation.cfm?id=3100304</a></li>
+ 	<li><a href="https://www.inderscienceonline.com/doi/abs/10.1504/IJISTA.2017.084239" target="_blank" rel="noopener">https://www.inderscienceonline.com/doi/abs/10.1504/IJISTA.2017.084239</a></li>
+</ul>
+</li>
+ 	<li><a href="http://www.m-hikari.com/ces/ces2016/ces29-32-2016/69153.html" target="_blank" rel="noopener">A novel hybrid partial least squares quadratic discriminant classification algorithm</a>
+<ul>
+ 	<li><a href="http://www.m-hikari.com/ces/ces2016/ces29-32-2016/69153.html" target="_blank" rel="noopener">http://www.m-hikari.com/ces/ces2016/ces29-32-2016/69153.html</a></li>
+</ul>
+</li>
+ 	<li><a href="https://www.inderscienceonline.com/doi/abs/10.1504/IJCVR.2018.090017" target="_blank" rel="noopener">Efficient holistic feature basis learning for pedestrian detection</a>
+<ul>
+ 	<li><a href="https://www.inderscienceonline.com/doi/abs/10.1504/IJCVR.2018.090017" target="_blank" rel="noopener">https://www.inderscienceonline.com/doi/abs/10.1504/IJCVR.2018.090017</a></li>
+</ul>
+</li>
+ 	<li><a href="http://www.jatit.org/volumes/Vol93No1/1Vol93No1.pdf" target="_blank" rel="noopener">A two-stage intelligent compression system for surveillance videos</a>
+<ul>
+ 	<li><a href="http://www.jatit.org/volumes/Vol93No1/1Vol93No1.pdf" target="_blank" rel="noopener">www.jatit.org/volumes/Vol93No1/1Vol93No1.pdf</a></li>
+</ul>
+</li>
+ 	<li><a href="https://www.raco.cat/index.php/ELCVIA/article/view/313783/0" target="_blank" rel="noopener">Efficient labelling of pedestrian supervisions</a>
+<ul>
+ 	<li><a href="https://www.raco.cat/index.php/ELCVIA/article/view/313783/0" target="_blank" rel="noopener">https://www.raco.cat/index.php/ELCVIA/article/view/313783/0</a></li>
+</ul>
+</li>
+ 	<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197616000336" target="_blank" rel="noopener">Adapting pedestrian detectors to new domains: A comprehensive review</a>
+<ul>
+ 	<li><a href="http://eprints.whiterose.ac.uk/102212/" target="_blank" rel="noopener">http://eprints.whiterose.ac.uk/102212/</a></li>
+ 	<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197616000336" target="_blank" rel="noopener">https://www.sciencedirect.com/science/article/abs/pii/S0952197616000336</a></li>
+</ul>
+</li>
+ 	<li><a href="https://www.inderscienceonline.com/doi/abs/10.1504/IJISDC.2017.090877" target="_blank" rel="noopener">A Survey of Detecting Pedestrians from Low Resolution Imagery</a>
+<ul>
+ 	<li><a href="https://www.inderscienceonline.com/doi/abs/10.1504/IJISDC.2017.090877" target="_blank" rel="noopener">https://www.inderscienceonline.com/doi/abs/10.1504/IJISDC.2017.090877</a></li>
+</ul>
+</li>
+ 	<li><a href="http://kpubs.org/article/articleMetrics.kpubs?articleANo=E1EEFQ_2015_v10n4_1910" target="_blank" rel="noopener">Human posture recognition: methodology and implementation</a>
+<ul>
+ 	<li><a href="http://kpubs.org/article/articleMetrics.kpubs?articleANo=E1EEFQ_2015_v10n4_1910" target="_blank" rel="noopener">http://kpubs.org/article/articleMetrics.kpubs?articleANo=E1EEFQ_2015_v10n4_1910</a></li>
+</ul>
+</li>
+ 	<li><a href="http://irep.iium.edu.my/26310/1/v2-3-6.pdf" target="_blank" rel="noopener">Capacitive transducer circuits for liquid level measurement</a>
+<ul>
+ 	<li><a href="http://irep.iium.edu.my/26310/1/v2-3-6.pdf" target="_blank" rel="noopener">http://irep.iium.edu.my/26310/1/v2-3-6.pdf</a></li>
+</ul>
+</li>
+ 	<li><a href="https://ieeexplore.ieee.org/document/6976833" target="_blank" rel="noopener">Efficient non-iterative domain adaptation of pedestrian detectors to video scenes</a>
+<ul>
+ 	<li><a href="https://ieeexplore.ieee.org/document/6976833" target="_blank" rel="noopener">https://ieeexplore.ieee.org/document/6976833</a></li>
+</ul>
+</li>
+ 	<li><a href="https://ieeexplore.ieee.org/document/7025474/" target="_blank" rel="noopener">Weakly supervised pedestrian detector training by unsupervised prior learning and cue fusion in videos</a>
+<ul>
+ 	<li><a href="https://ieeexplore.ieee.org/document/7025474/" target="_blank" rel="noopener">https://ieeexplore.ieee.org/document/7025474/</a></li>
+</ul>
+</li>
+ 	<li><a href="https://link.springer.com/chapter/10.1007/978-3-319-11331-9_33" target="_blank" rel="noopener">Unsupervised detector adaptation by joint dataset feature learning</a>
+<ul>
+ 	<li><a href="https://link.springer.com/chapter/10.1007/978-3-319-11331-9_33" target="_blank" rel="noopener">https://link.springer.com/chapter/10.1007/978-3-319-11331-9_33</a></li>
+ 	<li><a href="http://eprints.whiterose.ac.uk/84866/" target="_blank" rel="noopener">http://eprints.whiterose.ac.uk/84866/</a></li>
+ 	<li><a href="http://eprints.whiterose.ac.uk/84866/1/ICCVG14.pdf" target="_blank" rel="noopener">http://eprints.whiterose.ac.uk/84866/1/ICCVG14.pdf</a></li>
+</ul>
+</li>
+ 	<li><a href="https://ieeexplore.ieee.org/document/8312024" target="_blank" rel="noopener">Automated Daily Human Activity Recognition for Video Surveillance Using Neural Network</a>
+<ul>
+ 	<li><a href="https://ieeexplore.ieee.org/document/8312024" target="_blank" rel="noopener">https://ieeexplore.ieee.org/document/8312024</a></li>
+</ul>
+</li>
+ 	<li><a href="https://ieeexplore.ieee.org/document/8312025" target="_blank" rel="noopener">Harris Corner Detector and Blob Analysis Features in Human Activity Recognition</a>
+<ul>
+ 	<li><a href="https://ieeexplore.ieee.org/document/8312025" target="_blank" rel="noopener">https://ieeexplore.ieee.org/document/8312025</a></li>
+</ul>
+</li>
+ 	<li><a href="https://ieeexplore.ieee.org/document/6991357" target="_blank" rel="noopener">Human activity recognition for video surveillance using sequences of postures</a>
+<ul>
+ 	<li><a href="https://ieeexplore.ieee.org/document/6991357" target="_blank" rel="noopener">https://ieeexplore.ieee.org/document/6991357</a></li>
+</ul>
+</li>
+ 	<li><a href="https://ieeexplore.ieee.org/document/6633905" target="_blank" rel="noopener">Human posture recognition and classification</a>
+<ul>
+ 	<li><a href="https://ieeexplore.ieee.org/document/6633905" target="_blank" rel="noopener">https://ieeexplore.ieee.org/document/6633905</a></li>
+</ul>
+</li>
+ 	<li><a href="https://ieeexplore.ieee.org/document/5556749" target="_blank" rel="noopener">Comparison of supervised and unsupervised learning classifiers for human posture recognition</a>
+<ul>
+ 	<li><a href="https://ieeexplore.ieee.org/document/5556749" target="_blank" rel="noopener">https://ieeexplore.ieee.org/document/5556749</a></li>
+</ul>
+</li>
+ 	<li><a href="https://ieeexplore.ieee.org/document/5556806" target="_blank" rel="noopener">Rainfall forecasting models using focused time-delay neural networks</a>
+<ul>
+ 	<li><a href="https://ieeexplore.ieee.org/document/5556806" target="_blank" rel="noopener">https://ieeexplore.ieee.org/document/5556806</a></li>
+</ul>
+</li>
+ 	<li><a href="https://dl.acm.org/citation.cfm?id=1946508" target="_blank" rel="noopener">Clustering techniques for human posture recognition: K-Means, FCM and SOM</a>
+<ul>
+ 	<li><a href="https://dl.acm.org/citation.cfm?id=1946508" target="_blank" rel="noopener">https://dl.acm.org/citation.cfm?id=1946508</a></li>
+</ul>
+</li>
+ 	<li><a href="https://ieeexplore.ieee.org/document/4580808/" target="_blank" rel="noopener">A non-contact capacitance type level transducer for liquid characterization</a>
+<ul>
+ 	<li><a href="https://ieeexplore.ieee.org/document/4580808/" target="_blank" rel="noopener">https://ieeexplore.ieee.org/document/4580808/</a></li>
+ 	<li><a href="http://irep.iium.edu.my/5798/1/04580808.pdf" target="_blank" rel="noopener">http://irep.iium.edu.my/5798/1/04580808.pdf</a></li>
+</ul>
+</li>
+ 	<li><a href="https://link.springer.com/chapter/10.1007/978-3-319-11331-9_33" target="_blank" rel="noopener">Unsupervised Detector Adaptation by Joint Dataset Feature Learning</a>
+<ul>
+ 	<li><a href="https://link.springer.com/chapter/10.1007/978-3-319-11331-9_33" target="_blank" rel="noopener">https://link.springer.com/chapter/10.1007/978-3-319-11331-9_33</a></li>
+</ul>
+</li>
+ 	<li><a href="http://irep.iium.edu.my/21624/" target="_blank" rel="noopener">Human posture recognition : an overview</a>
+<ul>
+ 	<li><a href="http://irep.iium.edu.my/21624/" target="_blank" rel="noopener">http://irep.iium.edu.my/21624/</a></li>
+</ul>
+</li>
+ 	<li><a href="http://irep.iium.edu.my/20231/" target="_blank" rel="noopener">Human posture recognition preprocessing techniques</a>
+<ul>
+ 	<li><a href="http://irep.iium.edu.my/20231/" target="_blank" rel="noopener">http://irep.iium.edu.my/20231/</a></li>
+</ul>
+</li>
+ 	<li><a href="http://irep.iium.edu.my/21626/" target="_blank" rel="noopener">Human posture recognition : literature review</a>
+<ul>
+ 	<li><a href="http://irep.iium.edu.my/21626/" target="_blank" rel="noopener">http://irep.iium.edu.my/21626/</a></li>
+</ul>
+</li>
+</ul>

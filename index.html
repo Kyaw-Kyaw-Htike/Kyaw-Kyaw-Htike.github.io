@@ -6,6 +6,7 @@
 <meta name="description" content="Dr. Kyaw Kyaw Htike @ Ali Abdul Ghafur">
 <meta name="keywords" content="kyaw kyaw htike, kyaw, kyaw kyaw, ali kyaw, kyaw kyaw htike @ ali, Dr. Kyaw Kyaw Htike @ Ali Abdul Ghafur, ali abdul ghafur, ali, kyaw ali, kyaw htike">
 <meta name="author" content="Dr. Kyaw Kyaw Htike @ Ali Abdul Ghafur">
+<!-- <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no"/> -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="google-site-verification" content="thpvAozb0SVJbCjXnMWeZOHb-wgtL_r1iQC6AAhErAg" />
 <title>Dr. Kyaw Kyaw Htike @ Ali Abdul Ghafur</title>
@@ -24,15 +25,13 @@ body {
   padding-bottom: 7px;
   padding-left: 7px;
   padding-right: 7px;
+  background-color: #F2F2F2;
 }
-body {background-color: #F2F2F2;}
 ul {list-style: none}
 li::before {content: "•"; color: teal; display: inline-block; width: 1em; margin-left: -1em;}
 
-.emscripten {
-            /* position: absolute;
-            top: 0px;
-            left: 0px; */
+.cppWebAssembly {
+            background-color: black;
             margin: 0px;
             border: 0;
             width: 100%;
@@ -162,7 +161,7 @@ document.addEventListener('contextmenu', event => event.preventDefault());
 
 <h1 id="OtherInfo" class="anchorHeader">Other Info</h1>   
 
-<canvas class="emscripten" id="canvas" oncontextmenu="event.preventDefault()"></canvas>
+<canvas class="cppWebAssembly" id="canvas" oncontextmenu="event.preventDefault()"></canvas>
 <script type='text/javascript'>
   var Module = {
     preRun: [],

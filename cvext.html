@@ -1,0 +1,628 @@
+<!DOCTYPE html> 
+<html lang='en-US' xml:lang='en-US'> 
+<head><title></title> 
+<meta charset='utf-8' /> 
+<meta content='TeX4ht (https://tug.org/tex4ht/)' name='generator' /> 
+<meta content='width=device-width,initial-scale=1' name='viewport' /> 
+<style type='text/css'>
+<!--   
+/* start css.sty */
+p{margin-top:0;margin-bottom:0}
+p.indent{text-indent:0;}
+p + p{margin-top:1em;}
+p + div, p + pre {margin-top:1em;}
+div + p, pre + p {margin-top:1em;}
+a { overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; hyphens: auto; }
+@media print {div.crosslinks {visibility:hidden;}}
+table.tabular{border-collapse: collapse; border-spacing: 0;}
+a img { border-top: 0; border-left: 0; border-right: 0; }
+center { margin-top:1em; margin-bottom:1em; }
+td center { margin-top:0em; margin-bottom:0em; }
+.Canvas { position:relative; }
+img.math{vertical-align:middle;}
+div.par-math-display, div.math-display{text-align:center;}
+body{ margin:1em auto; max-width:80ch; padding:0 .62em; }
+h1,h2,h3,h4,h5 { line-height:1.2; }
+@media print{ body{ max-width:none } }
+.partHead, .likepartHead { font-size: 2em; }
+.chapterHead, .likechapterHead { font-size: 1.7411em; }
+.sectionHead, .likesectionHead { font-size: 1.5157em; }
+.subsectionHead, .likesubsectionHead { font-size: 1.3195em; }
+.subsubsectionHead, .likesubsubsectionHead { font-size: 1.1487em; }
+ @media (prefers-color-scheme: dark) { img[src^="2025010901_CV_DrKyawKyaw_extWeb"]{filter: invert(1); } } 
+li p.indent { text-indent: 0em }
+li p:first-child{ margin-top:0em; }
+li p:last-child, li div:last-child { margin-bottom:0.5em; }
+li p:first-child{ margin-bottom:0; }
+li p~ul:last-child, li p~ol:last-child{ margin-bottom:0.5em; }
+.enumerate1 {list-style-type:decimal;}
+.enumerate2 {list-style-type:lower-alpha;}
+.enumerate3 {list-style-type:lower-roman;}
+.enumerate4 {list-style-type:upper-alpha;}
+div.newtheorem { margin-bottom: 2em; margin-top: 2em;}
+div.newtheorem .head{font-weight: bold;}
+.obeylines-h,.obeylines-v {white-space: nowrap; }
+div.obeylines-v p { margin-top:0; margin-bottom:0; }
+.overline{ text-decoration:overline; }
+.overline img{ border-top: 1px solid black; }
+td.displaylines {text-align:center; white-space:nowrap;}
+.centerline {text-align:center;}
+.rightline {text-align:right;}
+pre.verbatim {font-family: monospace,monospace; text-align:left; clear:both; }
+.fbox {padding-left:3.0pt; padding-right:3.0pt; text-indent:0pt; border:solid black 0.4pt; }
+div.fbox {display:table}
+div.center div.fbox {text-align:center; clear:both; padding-left:3.0pt; padding-right:3.0pt; text-indent:0pt; border:solid black 0.4pt; }
+div.minipage{width:100%;}
+div.center, div.center div.center {text-align: center; margin-left:1em; margin-right:1em;}
+div.center div {text-align: left;}
+div.flushright, div.flushright div.flushright {text-align: right;}
+div.flushright div {text-align: left;}
+div.flushleft {text-align: left;}
+.underline{ text-decoration:underline; }
+.underline img{ border-bottom: 1px solid black; margin-bottom:1pt; }
+.framebox-c, .framebox-l, .framebox-r { padding-left:3.0pt; padding-right:3.0pt; text-indent:0pt; border:solid black 0.4pt; }
+.framebox-c {text-align:center;}
+.framebox-l {text-align:left;}
+.framebox-r {text-align:right;}
+span.thank-mark{ vertical-align: super }
+span.footnote-mark sup.textsuperscript, span.footnote-mark a sup.textsuperscript{ font-size:80%; }
+div.tabular, div.center div.tabular {text-align: center; margin-top:0.5em; margin-bottom:0.5em; }
+table.tabular td p{margin-top:0em;}
+table.tabular {margin-left: auto; margin-right: auto;}
+td p:first-child{ margin-top:0em; }
+td p:last-child{ margin-bottom:0em; }
+div.td00{ margin-left:0pt; margin-right:0pt; }
+div.td01{ margin-left:0pt; margin-right:5pt; }
+div.td10{ margin-left:5pt; margin-right:0pt; }
+div.td11{ margin-left:5pt; margin-right:5pt; }
+table[rules] {border-left:solid black 0.4pt; border-right:solid black 0.4pt; }
+td.td00{ padding-left:0pt; padding-right:0pt; }
+td.td01{ padding-left:0pt; padding-right:5pt; }
+td.td10{ padding-left:5pt; padding-right:0pt; }
+td.td11{ padding-left:5pt; padding-right:5pt; }
+table[rules] {border-left:solid black 0.4pt; border-right:solid black 0.4pt; }
+.hline hr, .cline hr{ height : 0px; margin:0px; }
+.hline td, .cline td{ padding: 0; }
+.hline hr, .cline hr{border:none;border-top:1px solid black;}
+.hline {border-top: 1px solid black;}
+.hline + .vspace:last-child{display:none;}
+.hline:first-child{border-bottom:1px solid black;border-top:none;}
+.tabbing-right {text-align:right;}
+div.float, div.figure {margin-left: auto; margin-right: auto;}
+div.float img {text-align:center;}
+div.figure img {text-align:center;}
+.marginpar,.reversemarginpar {width:20%; float:right; text-align:left; margin-left:auto; margin-top:0.5em; font-size:85%; text-decoration:underline;}
+.marginpar p,.reversemarginpar p{margin-top:0.4em; margin-bottom:0.4em;}
+.reversemarginpar{float:left;}
+table.equation {width:100%;}
+.equation td{text-align:center; }
+td.equation { margin-top:1em; margin-bottom:1em; } 
+td.equation-label { width:5%; text-align:center; }
+td.eqnarray4 { width:5%; white-space: normal; }
+td.eqnarray2 { width:5%; }
+table.eqnarray-star, table.eqnarray {width:100%;}
+div.eqnarray{text-align:center;}
+div.array {text-align:center;}
+div.pmatrix {text-align:center;}
+table.pmatrix {width:100%;}
+span.pmatrix img{vertical-align:middle;}
+div.pmatrix {text-align:center;}
+table.pmatrix {width:100%;}
+span.bar-css {text-decoration:overline;}
+img.cdots{vertical-align:middle;}
+.partToc a, .partToc, .likepartToc a, .likepartToc {line-height: 200%; font-weight:bold; font-size:110%;}
+.index-item, .index-subitem, .index-subsubitem {display:block}
+div.caption {text-indent:-2em; margin-left:3em; margin-right:1em; text-align:left;}
+div.caption span.id{font-weight: bold; white-space: nowrap; }
+h1.partHead{text-align: center}
+p.bibitem { text-indent: -2em; margin-left: 2em; margin-top:0.6em; margin-bottom:0.6em; }
+p.bibitem-p { text-indent: 0em; margin-left: 2em; margin-top:0.6em; margin-bottom:0.6em; }
+.subsubsectionHead, .likesubsubsectionHead { font-size: 1em; }
+.paragraphHead, .likeparagraphHead { margin-top:2em; font-weight: bold;}
+.subparagraphHead, .likesubparagraphHead { font-weight: bold;}
+.verse{white-space:nowrap; margin-left:2em}
+div.maketitle {text-align:center;}
+h2.titleHead{text-align:center;}
+div.maketitle{ margin-bottom: 2em; }
+div.author, div.date {text-align:center;}
+div.thanks{text-align:left; margin-left:10%; font-size:85%; font-style:italic; }
+div.author{white-space: nowrap;}
+div.abstract p {margin-left:5%; margin-right:5%;}
+div.abstract {width:100%;}
+.abstracttitle{text-align:center;margin-bottom:1em;}
+.subsectionToc, .likesubsectionToc {margin-left:1em;}
+.subsubsectionToc, .likesubsubsectionToc {margin-left:2em;}
+.paragraphToc, .likeparagraphToc {margin-left:3em;}
+.subparagraphToc, .likesubparagraphToc {margin-left:4em;}
+figure.float, div.figure {margin-left: auto; margin-right: auto;}
+figure.figure {text-align:center;}
+figcaption.caption {text-indent:-2em; margin-left:3em; margin-right:1em; text-align:center;}
+figcaption.caption span.id{font-weight: bold; white-space: nowrap; }
+p + figcaption, img + figcaption{margin-top: 1em;}
+.abstract{margin:1em;}
+dl.enumerate-enumitem{display:grid; grid-template-columns: 3ch 1fr; align-items: top; row-gap:1ch;}
+div.tabular, div.center div.tabular {text-align: center; margin-top:0.5em; margin-bottom:0.5em; }
+table.tabular td p{margin-top:0em;}
+table.tabular {margin-left: auto; margin-right: auto;}
+td p:first-child{ margin-top:0em; }
+td p:last-child{ margin-bottom:0em; }
+div.td00{ margin-left:0pt; margin-right:0pt; }
+div.td01{ margin-left:0pt; margin-right:5pt; }
+div.td10{ margin-left:5pt; margin-right:0pt; }
+div.td11{ margin-left:5pt; margin-right:5pt; }
+table[rules] {border-left:solid black 0.4pt; border-right:solid black 0.4pt; }
+td.td00{ padding-left:0pt; padding-right:0pt; }
+td.td01{ padding-left:0pt; padding-right:5pt; }
+td.td10{ padding-left:5pt; padding-right:0pt; }
+td.td11{ padding-left:5pt; padding-right:5pt; }
+table[rules] {border-left:solid black 0.4pt; border-right:solid black 0.4pt; }
+.hline hr, .cline hr{ height : 0px; margin:0px; }
+.hline td, .cline td{ padding: 0; }
+.hline hr, .cline hr{border:none;border-top:1px solid black;}
+.hline {border-top: 1px solid black;}
+.hline + .vspace:last-child{display:none;}
+.hline:first-child{border-bottom:1px solid black;border-top:none;}
+div.array {text-align:center;}
+.rotatebox{display: inline-block;}
+#colorbox1{border: solid 1px #00FFFF;}
+#colorbox1{background-color: #BF0040;}
+span#textcolor2{color:#FFFF00}
+#colorbox3{border: solid 1px #00FFFF;}
+#colorbox3{background-color: #BF0040;}
+span#textcolor4{color:#FFFF00}
+#colorbox5{border: solid 1px #00FFFF;}
+#colorbox5{background-color: #BF0040;}
+span#textcolor6{color:#FFFF00}
+#colorbox7{border: solid 1px #00FFFF;}
+#colorbox7{background-color: #BF0040;}
+span#textcolor8{color:#FFFF00}
+#colorbox9{border: solid 1px #00FFFF;}
+#colorbox9{background-color: #BF0040;}
+span#textcolor10{color:#FFFF00}
+#colorbox11{border: solid 1px #00FFFF;}
+#colorbox11{background-color: #BF0040;}
+span#textcolor12{color:#FFFF00}
+#colorbox13{border: solid 1px #00FFFF;}
+#colorbox13{background-color: #BF0040;}
+span#textcolor14{color:#FFFF00}
+#colorbox15{border: solid 1px #00FFFF;}
+#colorbox15{background-color: #BF0040;}
+span#textcolor16{color:#FFFF00}
+#colorbox17{border: solid 1px #00FFFF;}
+#colorbox17{background-color: #BF0040;}
+span#textcolor18{color:#FFFF00}
+#colorbox19{border: solid 1px #00FFFF;}
+#colorbox19{background-color: #BF0040;}
+span#textcolor20{color:#FFFF00}
+#colorbox21{border: solid 1px #00FFFF;}
+#colorbox21{background-color: #BF0040;}
+span#textcolor22{color:#FFFF00}
+#colorbox23{border: solid 1px #00FFFF;}
+#colorbox23{background-color: #BF0040;}
+span#textcolor24{color:#FFFF00}
+#colorbox25{border: solid 1px #00FFFF;}
+#colorbox25{background-color: #BF0040;}
+span#textcolor26{color:#FFFF00}
+#colorbox27{border: solid 1px #00FFFF;}
+#colorbox27{background-color: #BF0040;}
+span#textcolor28{color:#FFFF00}
+#colorbox29{border: solid 1px #00FFFF;}
+#colorbox29{background-color: #BF0040;}
+span#textcolor30{color:#FFFF00}
+#colorbox31{border: solid 1px #00FFFF;}
+#colorbox31{background-color: #BF0040;}
+span#textcolor32{color:#FFFF00}
+#colorbox33{border: solid 1px #00FFFF;}
+#colorbox33{background-color: #BF0040;}
+span#textcolor34{color:#FFFF00}
+#colorbox35{border: solid 1px #00FFFF;}
+#colorbox35{background-color: #BF0040;}
+span#textcolor36{color:#FFFF00}
+#colorbox37{border: solid 1px #00FFFF;}
+#colorbox37{background-color: #BF0040;}
+span#textcolor38{color:#FFFF00}
+#colorbox39{border: solid 1px #00FFFF;}
+#colorbox39{background-color: #BF0040;}
+span#textcolor40{color:#FFFF00}
+#colorbox41{border: solid 1px #00FFFF;}
+#colorbox41{background-color: #BF0040;}
+span#textcolor42{color:#FFFF00}
+#colorbox43{border: solid 1px #00FFFF;}
+#colorbox43{background-color: #BF0040;}
+span#textcolor44{color:#FFFF00}
+#colorbox45{border: solid 1px #00FFFF;}
+#colorbox45{background-color: #BF0040;}
+span#textcolor46{color:#FFFF00}
+#colorbox47{border: solid 1px #00FFFF;}
+#colorbox47{background-color: #BF0040;}
+span#textcolor48{color:#FFFF00}
+#colorbox49{border: solid 1px #00FFFF;}
+#colorbox49{background-color: #BF0040;}
+span#textcolor50{color:#FFFF00}
+#colorbox51{border: solid 1px #00FFFF;}
+#colorbox51{background-color: #BF0040;}
+span#textcolor52{color:#FFFF00}
+#colorbox53{border: solid 1px #00FFFF;}
+#colorbox53{background-color: #BF0040;}
+span#textcolor54{color:#FFFF00}
+#colorbox55{border: solid 1px #00FFFF;}
+#colorbox55{background-color: #BF0040;}
+span#textcolor56{color:#FFFF00}
+#colorbox57{border: solid 1px #00FFFF;}
+#colorbox57{background-color: #BF0040;}
+span#textcolor58{color:#FFFF00}
+#colorbox59{border: solid 1px #00FFFF;}
+#colorbox59{background-color: #BF0040;}
+span#textcolor60{color:#FFFF00}
+#colorbox61{border: solid 1px #00FFFF;}
+#colorbox61{background-color: #BF0040;}
+span#textcolor62{color:#FFFF00}
+#colorbox63{border: solid 1px #00FFFF;}
+#colorbox63{background-color: #BF0040;}
+span#textcolor64{color:#FFFF00}
+#colorbox65{border: solid 1px #00FFFF;}
+#colorbox65{background-color: #BF0040;}
+span#textcolor66{color:#FFFF00}
+#colorbox67{border: solid 1px #00FFFF;}
+#colorbox67{background-color: #BF0040;}
+span#textcolor68{color:#FFFF00}
+#colorbox69{border: solid 1px #00FFFF;}
+#colorbox69{background-color: #BF0040;}
+span#textcolor70{color:#FFFF00}
+#colorbox71{border: solid 1px #00FFFF;}
+#colorbox71{background-color: #BF0040;}
+span#textcolor72{color:#FFFF00}
+#colorbox73{border: solid 1px #00FFFF;}
+#colorbox73{background-color: #BF0040;}
+span#textcolor74{color:#FFFF00}
+#colorbox75{border: solid 1px #00FFFF;}
+#colorbox75{background-color: #BF0040;}
+span#textcolor76{color:#FFFF00}
+#colorbox77{border: solid 1px #00FFFF;}
+#colorbox77{background-color: #BF0040;}
+span#textcolor78{color:#FFFF00}
+#colorbox79{border: solid 1px #00FFFF;}
+#colorbox79{background-color: #BF0040;}
+span#textcolor80{color:#FFFF00}
+#colorbox81{border: solid 1px #00FFFF;}
+#colorbox81{background-color: #BF0040;}
+span#textcolor82{color:#FFFF00}
+#colorbox83{border: solid 1px #00FFFF;}
+#colorbox83{background-color: #BF0040;}
+span#textcolor84{color:#FFFF00}
+#colorbox85{border: solid 1px #00FFFF;}
+#colorbox85{background-color: #BF0040;}
+span#textcolor86{color:#FFFF00}
+#colorbox87{border: solid 1px #00FFFF;}
+#colorbox87{background-color: #BF0040;}
+span#textcolor88{color:#FFFF00}
+#colorbox89{border: solid 1px #00FFFF;}
+#colorbox89{background-color: #BF0040;}
+span#textcolor90{color:#FFFF00}
+#colorbox91{border: solid 1px #00FFFF;}
+#colorbox91{background-color: #BF0040;}
+span#textcolor92{color:#FFFF00}
+#colorbox93{border: solid 1px #00FFFF;}
+#colorbox93{background-color: #BF0040;}
+span#textcolor94{color:#FFFF00}
+#colorbox95{border: solid 1px #00FFFF;}
+#colorbox95{background-color: #BF0040;}
+span#textcolor96{color:#FFFF00}
+#colorbox97{border: solid 1px #00FFFF;}
+#colorbox97{background-color: #BF0040;}
+span#textcolor98{color:#FFFF00}
+#colorbox99{border: solid 1px #00FFFF;}
+#colorbox99{background-color: #BF0040;}
+span#textcolor100{color:#FFFF00}
+#colorbox101{border: solid 1px #00FFFF;}
+#colorbox101{background-color: #BF0040;}
+span#textcolor102{color:#FFFF00}
+#colorbox103{border: solid 1px #00FFFF;}
+#colorbox103{background-color: #BF0040;}
+span#textcolor104{color:#FFFF00}
+#colorbox105{border: solid 1px #00FFFF;}
+#colorbox105{background-color: #BF0040;}
+span#textcolor106{color:#FFFF00}
+#colorbox107{border: solid 1px #00FFFF;}
+#colorbox107{background-color: #BF0040;}
+span#textcolor108{color:#FFFF00}
+#colorbox109{border: solid 1px #00FFFF;}
+#colorbox109{background-color: #BF0040;}
+span#textcolor110{color:#FFFF00}
+#colorbox111{border: solid 1px #00FFFF;}
+#colorbox111{background-color: #BF0040;}
+span#textcolor112{color:#FFFF00}
+#colorbox113{border: solid 1px #00FFFF;}
+#colorbox113{background-color: #BF0040;}
+span#textcolor114{color:#FFFF00}
+#colorbox115{border: solid 1px #00FFFF;}
+#colorbox115{background-color: #BF0040;}
+span#textcolor116{color:#FFFF00}
+#colorbox117{border: solid 1px #00FFFF;}
+#colorbox117{background-color: #BF0040;}
+span#textcolor118{color:#FFFF00}
+#colorbox119{border: solid 1px #00FFFF;}
+#colorbox119{background-color: #BF0040;}
+span#textcolor120{color:#FFFF00}
+#colorbox121{border: solid 1px #00FFFF;}
+#colorbox121{background-color: #BF0040;}
+span#textcolor122{color:#FFFF00}
+/* end css.sty */
+
+  -->
+</style> 
+<meta content='2025010901_CV_DrKyawKyaw_extWeb.tex' name='src' /> 
+</head><body>
+   <h3 class='likesectionHead' id='contents'><a id='x1-1000'></a>Contents</h3>
+   <div class='tableofcontents'>
+   <span class='sectionToc'>1 <a href='#archived-content' id='QQ2-1-2'>Archived Content</a></span>
+<br />   <span class='sectionToc'>2 <a href='#publications' id='QQ2-1-3'>Publications</a></span>
+<br />   <span class='sectionToc'>3 <a href='#professional-memberships' id='QQ2-1-4'>Professional Memberships</a></span>
+<br />   <span class='sectionToc'>4 <a href='#courses-taught-in-universities' id='QQ2-1-5'>Courses Taught in Universities</a></span>
+<br />   <span class='sectionToc'>5 <a href='#research-grants' id='QQ2-1-6'>Research Grants</a></span>
+<br />   <span class='sectionToc'>6 <a href='#honors-awards' id='QQ2-1-7'>Honors &amp; Awards</a></span>
+<br />   <span class='sectionToc'>7 <a href='#contributions-to-community' id='QQ2-1-8'>Contributions to Community</a></span>
+<br />   <span class='sectionToc'>8 <a href='#admin-positions' id='QQ2-1-9'>Admin Positions</a></span>
+<br />   <span class='sectionToc'>9 <a href='#academic-courses-created' id='QQ2-1-10'>Academic Courses Created</a></span>
+<br />   <span class='sectionToc'>10 <a href='#undergraduate-final-year-projects-supervised' id='QQ2-1-11'>Undergraduate Final Year Projects Supervised</a></span>
+<br />   <span class='sectionToc'>11 <a href='#training-courses-attended' id='QQ2-1-12'>Training Courses Attended</a></span>
+<br />   <span class='sectionToc'>12 <a href='#nonconference-poster-presentations' id='QQ2-1-13'>Non-conference Poster Presentations</a></span>
+<br />   <span class='sectionToc'>13 <a href='#languages' id='QQ2-1-14'>Languages</a></span>
+   </div>
+<!-- l. 11 --><p class='noindent'>
+</p>
+   <h3 class='sectionHead' id='archived-content'><span class='titlemark'>1    </span> <a id='x1-20001'></a>Archived Content</h3>
+<!-- l. 12 --><p class='noindent'>This web page was automatically generated. Information is partial, may be outdated, and should be used with other
+resources.
+</p><!-- l. 14 --><p class='noindent'>
+</p>
+   <h3 class='sectionHead' id='publications'><span class='titlemark'>2    </span> <a id='x1-30002'></a>Publications</h3>
+     <ul class='itemize1'>
+     <li class='itemize'><span class='ec-qplb-'>Kyaw Kyaw Htike</span>, "Forests of unstable hierarchical clusters for pattern classification", <span class='ec-qplri-'>Soft Computing</span>, Vol. 22,
+     no. 5, pp. 1711-1718, Springer, 2018. <a href='https://doi.org/10.1007/s00500-016-2434-1'>DOI</a>. [ISI and Scopus-indexed journal; Impact factor = 1.630]
+     </li>
+     <li class='itemize'><span class='ec-qplb-'>Kyaw  Kyaw  Htike  </span>&amp;  David  Hogg,  "Adapting  pedestrian  detectors  to  new  domains:  a  comprehensive
+     review",  <span class='ec-qplri-'>Engineering  Applications  of  Artificial  Intelligence</span>,  Vol.  50,  pp.  142-158,  Elsevier,  2016.  <a href='https://doi.org/10.1016/j.engappai.2016.01.029'>DOI</a>.  [ISI  and
+     Scopus-indexed journal; Impact factor = 2.368]
+     </li>
+     <li class='itemize'><span class='ec-qplb-'>Kyaw  Kyaw  Htike</span>,  "Efficient  determination  of  the  number  of  weak  learners  in  AdaBoost",  <span class='ec-qplri-'>Journal  of
+     Experimental and Theoretical Artificial Intelligence</span>, Vol. 29, no. 5, pp. 967-982, Taylor &amp; Francis, 2017. <a href='https://doi.org/10.1080/0952813X.2016.1266038'>DOI</a>. [ISI
+     and Scopus-indexed journal; Impact factor = 1.703]
+     </li>
+     <li class='itemize'><span class='ec-qplb-'>Kyaw Kyaw Htike</span>, "Predicting rainfall using neural nets", <span class='ec-qplri-'>International Journal of Computational Science and
+     Engineering</span>, Vol.17 No.4, pp.353 - 364, Inderscience, 2018. <a href='https://doi.org/10.1504/IJCSE.2018.10017302'>DOI</a>. [ISI (ESCI) and Scopus-indexed journal]
+     </li>
+     <li class='itemize'><span class='ec-qplb-'>Kyaw  Kyaw  Htike</span>,  "Hidden-layer  ensemble  fusion  of  MLP  neural  networks  for  pedestrian  detection",
+     <span class='ec-qplri-'>Informatica</span>, Vol. 41, no. 1, pp. 87-97, 2017. [ISI (ESCI) and Scopus-indexed journal]
+                                                                                                
+                                                                                                
+     </li>
+     <li class='itemize'><span class='ec-qplb-'>Kyaw Kyaw Htike</span>, "A review on data-driven learning of a talking head model", <span class='ec-qplri-'>International Journal of Intelligent
+     Systems Technologies and Applications</span>, Vol. 16, no. 2, Inderscience, 2017. <a href='https://doi.org/10.1504/IJISTA.2017.084239'>DOI</a>. [Scopus-indexed journal]
+     </li>
+     <li class='itemize'><span class='ec-qplb-'>Kyaw  Kyaw  Htike</span>,  "A  novel  hybrid  partial  least  squares  quadratic  discriminant  classification  algorithm",
+     <span class='ec-qplri-'>Contemporary Engineering Sciences</span>, Vol. 9, no. 32, pp. 1547-1557, 2016. <a href='https://doi.org/10.12988/ces.2016.69153'>DOI</a>. [Scopus-indexed journal]
+     </li>
+     <li class='itemize'><span class='ec-qplb-'>Kyaw Kyaw Htike</span>, "Efficient holistic feature basis learning for pedestrian detection", <span class='ec-qplri-'>International Journal of
+     Computational Vision and Robotics</span>, Vol. 8, no. 1, pp. 74-84, Inderscience, 2018. <a href='https://doi.org/10.1504/IJCVR.2018.090017'>DOI</a>. [Scopus-indexed journal]
+     </li>
+     <li class='itemize'><span class='ec-qplb-'>Kyaw Kyaw Htike</span>, "A two-stage intelligent compression system for surveillance videos", <span class='ec-qplri-'>Journal of Theoretical
+     and Applied Information Technology</span>, Vol. 93, no. 1, pp. 1-9, 2016. [Scopus-indexed journal]
+     </li>
+     <li class='itemize'><span class='ec-qplb-'>Kyaw Kyaw Htike</span>, "Efficient labelling of pedestrian supervisions", <span class='ec-qplri-'>Electronic Letters on Computer Vision and
+     Image Analysis</span>, Vol. 15, no. 1, pp. 77-99, 2016. <a href='https://doi.org/10.5565/rev/elcvia.881'>DOI</a>. [Scopus-indexed journal]
+     </li>
+     <li class='itemize'><span class='ec-qplb-'>Kyaw  Kyaw  Htike</span>,  <span class='ec-qplri-'>et  al</span>.,  "A  Survey  of  Detecting  Pedestrians  from  Low  Resolution  Imagery",  <span class='ec-qplri-'>International
+     Journal of Intelligent Systems Design and Computing</span>, Vol. 1, no. 3-4, Inderscience, 2018. <a href='https://doi.org/10.1504/IJISDC.2017.090877'>DOI</a>. [Journal]
+     </li>
+     <li class='itemize'><span class='ec-qplb-'>Kyaw  Kyaw  Htike</span>,  Othman  Khalifa,  and  Weng  Kin  Lai.  "Human  posture  recognition:  methodology  and
+     implementation", <span class='ec-qplri-'>Journal of Electrical Engineering and Technology</span>, Vol. 10, no. 4, 2015. <a href='https://doi.org/10.5370/JEET.2015.10.4.1910'>DOI</a>. [Journal]
+     </li>
+     <li class='itemize'>Sheroz Khan, AHM Zahirul Alam, <span class='ec-qplb-'>Kyaw Kyaw Htike</span>, <span class='ec-qplri-'>et al</span>., "Capacitive transducer circuits for liquid level
+     measurement", <span class='ec-qplri-'>International Journal of Computer Sciences and Engineering Systems</span>, Vol. 2, 2008. [Journal]
+     </li>
+     <li class='itemize'><span class='ec-qplb-'>Kyaw Kyaw Htike </span>&amp; David Hogg, "Efficient non-iterative domain adaptation of pedestrian detectors to video
+     scenes", <span class='ec-qplri-'>IEEE International Conference on Pattern Recognition (ICPR)</span>, 2014, Sweden. <a href='https://doi.org/10.1109/ICPR.2014.123'>DOI</a>. [Oral presentation;
+     acceptance rate = 14% out of 1409 submissions; ISI and Scopus-indexed conference proceeding]
+     </li>
+     <li class='itemize'><span class='ec-qplb-'>Kyaw Kyaw Htike </span>&amp; David Hogg, "Weakly supervised pedestrian detector training by unsupervised prior
+     learning and cue fusion in videos", <span class='ec-qplri-'>IEEE International Conference on Image Processing (ICIP)</span>, 2014, Paris, France.
+     <a href='https://doi.org/10.1109/ICIP.2014.7025474'>DOI</a>.[ISI and Scopus-indexed conference proceeding]
+     </li>
+     <li class='itemize'><span class='ec-qplb-'>Kyaw  Kyaw  Htike  </span>&amp;  David  Hogg,  "Unsupervised  detector  adaptation  by  joint  dataset  feature  learning",
+     <span class='ec-qplri-'>International   Conference   on   Computer   Vision   and   Graphics</span>,   2014,   Poland.   <a href='https://doi.org/10.1007/978-3-319-11331-9_33'>DOI</a>.   [ISI-indexed   conference
+     proceeding]
+     </li>
+     <li class='itemize'>Mohanad Babiker, Othman Khalifa, <span class='ec-qplb-'>Kyaw Kyaw Htike</span>, <span class='ec-qplri-'>et al</span>., "Automated Daily Human Activity Recognition
+     for  Video  Surveillance  Using  Neural  Network",  <span class='ec-qplri-'>IEEE  International  Conference  on  Smart  Instrumentation,
+     Measurement and Applications</span>, 2017, Malaysia. <a href='https://doi.org/10.1109/ICSIMA.2017.8312024'>DOI</a>. [Conference proceeding]
+     </li>
+     <li class='itemize'>Mohanad  Babiker,  Othman  Khalifa,  <span class='ec-qplb-'>Kyaw  Kyaw  Htike</span>,  <span class='ec-qplri-'>et  al</span>.,  "Harris  Corner  Detector  and  Blob  Analysis
+     Features in Human Activity Recognition", <span class='ec-qplri-'>IEEE International Conference on Smart Instrumentation, Measurement
+     and Applications (ICSIMA)</span>, 2017, Malaysia. <a href='https://doi.org/10.1109/ICSIMA.2017.8312025'>DOI</a>. [Conference proceeding]
+     </li>
+     <li class='itemize'><span class='ec-qplb-'>Kyaw Kyaw Htike</span>, Othman Khalifa, <span class='ec-qplri-'>et al</span>., "Human activity recognition for video surveillance using sequences
+     of postures", <span class='ec-qplri-'>IEEE International Conference on e-Technologies and Networks for Development (ICeND)</span>, 2014, pp.
+     79-82, Beirut, Lebanon. <a href='https://doi.org/10.1109/ICeND.2014.6991357'>DOI</a>. [Scopus-indexed conference proceeding]
+     </li>
+     <li class='itemize'>Othman  Khalifa  &amp;  <span class='ec-qplb-'>Kyaw  Kyaw  Htike</span>,  "Human  posture  recognition  and  classification",  <span class='ec-qplri-'>IEEE  International
+     Conference on Computing, Electrical and Electronic Engineering</span>, 2013, Sudan. <a href='https://doi.org/10.1109/ICCEEE.2013.6633905'>DOI</a>. [Conference proceeding]
+     </li>
+     <li class='itemize'><span class='ec-qplb-'>Kyaw Kyaw Htike </span>&amp; Othman Khalifa, "Comparison of supervised and unsupervised learning classifiers for
+     human  posture  recognition",  <span class='ec-qplri-'>International  Conference  on  Computer  and  Communication  Engineering  (ICCCE)</span>,
+     2010, pp.1-6, Kuala Lumpur, Malaysia. <a href='https://doi.org/10.1109/ICCCE.2010.5556749'>DOI</a>. [Scopus-indexed conference proceeding]
+     </li>
+     <li class='itemize'><span class='ec-qplb-'>Kyaw Kyaw Htike </span>&amp; Othman Khalifa, "Rainfall forecasting models using focused time-delay neural networks",
+     <span class='ec-qplri-'>IEEE International Conference on Computer and Communication Engineering (ICCCE)</span>, 2010, pp.1-6, Kuala Lumpur,
+     Malaysia. <a href='https://doi.org/10.1109/ICCCE.2010.5556806'>DOI</a>. [Scopus-indexed conference proceeding]
+     </li>
+     <li class='itemize'>Sheroz  Khan,  Othman  Khalifa  &amp;  <span class='ec-qplb-'>Kyaw  Kyaw  Htike</span>,  "A  non-contact  capacitance  type  level  transducer  for
+     liquid  characterization",  <span class='ec-qplri-'>International  Conference  on  Computer  and  Communication  Engineering</span>,  IEEE,  2008,
+     pp.1264-1269, Kuala Lumpur, Malaysia. <a href='https://doi.org/10.1109/ICCCE.2008.4580808'>DOI</a>. [Scopus-indexed conference proceeding]
+     </li>
+     <li class='itemize'>Lai Weng Kai, Maleeha Kiran &amp; <span class='ec-qplb-'>Kyaw Kyaw Htike </span>Ali, "Clustering techniques for human posture recognitio",
+     <span class='ec-qplri-'>International Conference on Signal, Speech and Image processing</span>, WSEAS, 2009, Hungary. [Scopus-indexed]
+     </li>
+     <li class='itemize'><span class='ec-qplb-'>Kyaw Kyaw Htike </span>&amp; David Hogg, "Unsupervised Detector Adaptation by Joint Dataset Feature Learning",
+     <span class='ec-qplri-'>Computer Vision and Graphics</span>, Lecture Notes in Computer Science, Vol. 8671, 2014, pp 270-277, Springer.
+     </li>
+     <li class='itemize'><span class='ec-qplb-'>Kyaw Kyaw Htike</span>, Othman Khalifa, <span class='ec-qplri-'>et al</span>., "Time-Delay Neural Network for Rainfall Forecasting", <span class='ec-qplri-'>Antennas and
+     Propagation: Modelling, Simulation &amp; Measurements</span>, 2011, IIUM Press, Kuala Lumpur, pp. 186-192, chapter 23.
+     </li>
+     <li class='itemize'><span class='ec-qplb-'>Kyaw  Kyaw  Htike</span>,  Othman  Khalifa,  <span class='ec-qplri-'>et  al</span>.,  "Human  posture  recognition",  <span class='ec-qplri-'>Human  Behaviour  Recognition,
+     Identification  and  Computer  Interaction</span>,  2011,  IIUM  Press,  Kuala  Lumpur,  pp.  15-58,  chapters  3-8,  ISBN
+     978-967-418-156-7.</li></ul>
+<!-- l. 17 --><p class='noindent'>
+</p>
+   <h3 class='sectionHead' id='professional-memberships'><span class='titlemark'>3    </span> <a id='x1-40003'></a>Professional Memberships</h3>
+<!-- l. 3 --><p class='noindent'><span class='colorbox' id='colorbox1'><span id='textcolor2'><span class='ec-qplb-'>|#|</span></span></span>Professional Technologist (Ts./P.Tech title), Malaysia Board of Technologists (MBOT) [28/Sept/2021 - 28/Sept/2024] <span class='colorbox' id='colorbox3'><span id='textcolor4'><span class='ec-qplb-'>|#|</span></span></span>
+Member, IEEE <span class='colorbox' id='colorbox5'><span id='textcolor6'><span class='ec-qplb-'>|#|</span></span></span> Member, AAAI (Association for Advancement of AI) <span class='colorbox' id='colorbox7'><span id='textcolor8'><span class='ec-qplb-'>|#|</span></span></span> Member, Data Science Association
+</p><!-- l. 20 --><p class='noindent'>
+</p>
+   <h3 class='sectionHead' id='courses-taught-in-universities'><span class='titlemark'>4    </span> <a id='x1-50004'></a>Courses Taught in Universities</h3>
+<!-- l. 17 --><p class='noindent'><span class='colorbox' id='colorbox9'><span id='textcolor10'><span class='ec-qplb-'>|#|</span></span></span>Computer Vision (Master’s, UK) <span class='colorbox' id='colorbox11'><span id='textcolor12'><span class='ec-qplb-'>|#|</span></span></span> Artificial Intelligence (Undergrad, UK) <span class='colorbox' id='colorbox13'><span id='textcolor14'><span class='ec-qplb-'>|#|</span></span></span> Intelligent Systems <span class='colorbox' id='colorbox15'><span id='textcolor16'><span class='ec-qplb-'>|#|</span></span></span> Network Security Design <span class='colorbox' id='colorbox17'><span id='textcolor18'><span class='ec-qplb-'>|#|</span></span></span>
+Programming Paradigms <span class='colorbox' id='colorbox19'><span id='textcolor20'><span class='ec-qplb-'>|#|</span></span></span> Operating Systems <span class='colorbox' id='colorbox21'><span id='textcolor22'><span class='ec-qplb-'>|#|</span></span></span> Database Systems <span class='colorbox' id='colorbox23'><span id='textcolor24'><span class='ec-qplb-'>|#|</span></span></span> Networking <span class='colorbox' id='colorbox25'><span id='textcolor26'><span class='ec-qplb-'>|#|</span></span></span> Database Management Systems <span class='colorbox' id='colorbox27'><span id='textcolor28'><span class='ec-qplb-'>|#|</span></span></span> Data
+Structures &amp; Algorithms <span class='colorbox' id='colorbox29'><span id='textcolor30'><span class='ec-qplb-'>|#|</span></span></span> Introduction to Information Technology
+</p><!-- l. 23 --><p class='noindent'>
+                                                                                                
+                                                                                                
+</p>
+   <h3 class='sectionHead' id='research-grants'><span class='titlemark'>5    </span> <a id='x1-60005'></a>Research Grants</h3>
+<!-- l. 28 --><p class='noindent'><span class='colorbox' id='colorbox31'><span id='textcolor32'><span class='ec-qplb-'>|#|</span></span></span>"Low-Power wireless prototype for acoustic-based glass-break detection"; <span class='ec-qplri-'>Protype Research Grant Scheme </span>(PRGS)
+[ID: PRGS17-002-0042]; Co-researcher; RM100,000; Aug/2017-Aug/2019; Malaysia <span class='colorbox' id='colorbox33'><span id='textcolor34'><span class='ec-qplb-'>|#|</span></span></span> "Integrated weakly- and
+semi-supervised learning for high performance pedestrian detection"; <span class='ec-qplri-'>Pioneer Scientist Incentive Fund </span>(PSIF) [ID:
+Proj-In-FOBIS-012]; Principal Investigator (project leader); RM19,310; Jan/2016-Jan/2018; UCSI University <span class='colorbox' id='colorbox35'><span id='textcolor36'><span class='ec-qplb-'>|#|</span></span></span> "Learning to
+recognise dynamic visual content from broadcast footage"; <span class='ec-qplri-'>EPSRC ICT grant </span>[ID: EP/I01229X/1]; Co-researcher
+(Research Fellow); £439,458 (RM2,500,000); Oct/2013-Mar/2016; Collaboration among University of Oxford, Leeds
+&amp; Surrey; UK <span class='colorbox' id='colorbox37'><span id='textcolor38'><span class='ec-qplb-'>|#|</span></span></span> "Domain Adaptation for Pedestrian Detection"; <span class='ec-qplri-'>Fully-funded International Research Scholarship</span>
+(FIRS) [ID: JYF/sy/200521048; Project leader; £83,070 (RM462,000); Oct/2010-Sep/2013; University of Leeds,
+UK
+</p><!-- l. 26 --><p class='noindent'>
+</p>
+   <h3 class='sectionHead' id='honors-awards'><span class='titlemark'>6    </span> <a id='x1-70006'></a>Honors &amp; Awards</h3>
+     <ul class='itemize1'>
+     <li class='itemize'>Certificate of Excellence for courses taught throughout academic year, 2017, UCSI University, Malaysia.
+     </li>
+     <li class='itemize'>2 <span class='ts1-qplr-'>× </span>Dean’s Appreciation Letters for teaching performance, 2015, UCSI University, Malaysia.
+     </li>
+     <li class='itemize'>Excellent student evaluations, 2015-2017, UCSI University, Malaysia.
+     </li>
+     <li class='itemize'>2 <span class='ts1-qplr-'>× </span>Active Researcher awards (runner up), 2016-2017, UCSI University, Malaysia.
+     </li>
+     <li class='itemize'>Prestigious Fully-funded International Research Scholarship, 2010-2014, University of Leeds, United Kingdom.
+     </li>
+     <li class='itemize'>Best Student (Academic) award for Bachelor of Engineering (Computer &amp; Information), 2010, IIUM, Malaysia.
+     </li>
+     <li class='itemize'>Best Student (Software Systems) award for Computer Engineering, 2010, IIUM, Malaysia.
+     </li>
+     <li class='itemize'>IIUM Academic Excellence Scholarship, 2008-2009, IIUM, Malaysia.
+     </li>
+     <li class='itemize'>Rector’s Academic Excellence award for Engineering, 2006-2008, IIUM, Malaysia.
+     </li>
+     <li class='itemize'>Dean’s List in Computer Engineering for every semester in every year, 2006-2010, IIUM, Malaysia.
+     </li>
+     <li class='itemize'>Best final year project poster award in Computer Engineering, 2009, IIUM, Malaysia.
+     </li>
+     <li class='itemize'>Bronze medal in Inter-university Final Year Project Poster Competition, 2009, Monash University, Malaysia.
+     </li>
+     <li class='itemize'>2 <span class='ts1-qplr-'>× </span>Bronze medals in Engineering Research and Innovation Exhibition, 2009, IIUM, Malaysia.</li></ul>
+                                                                                                
+                                                                                                
+<!-- l. 29 --><p class='noindent'>
+</p>
+   <h3 class='sectionHead' id='contributions-to-community'><span class='titlemark'>7    </span> <a id='x1-80007'></a>Contributions to Community</h3>
+<!-- l. 1 --><p class='noindent'><span class='colorbox' id='colorbox39'><span id='textcolor40'><span class='ec-qplb-'>|#|</span></span></span>Keynote Speaker, new Computer Science PhD, Master’s &amp; Bachelor programmes, Oct/2021, UCSI <span class='colorbox' id='colorbox41'><span id='textcolor42'><span class='ec-qplb-'>|#|</span></span></span> 3 <span class='ts1-qplr-'>× </span>Guest speaker for
+Project Workshop, 2016-2018, UCSI <span class='colorbox' id='colorbox43'><span id='textcolor44'><span class='ec-qplb-'>|#|</span></span></span> Editor for International Journal of Embedded Systems, Inderscience, 2017 <span class='colorbox' id='colorbox45'><span id='textcolor46'><span class='ec-qplb-'>|#|</span></span></span> Reviewer for
+International Journal of Computational Science &amp; Engineering, Inderscience, 2017 <span class='colorbox' id='colorbox47'><span id='textcolor48'><span class='ec-qplb-'>|#|</span></span></span> Technical Reviewer for International
+Conference of Innovation &amp; Technopreneurship, 2018, Malaysia <span class='colorbox' id='colorbox49'><span id='textcolor50'><span class='ec-qplb-'>|#|</span></span></span> Program Facilitator for R&amp;D workshop at Le Quadri
+Ballroom, 1-2 Nov/2016, UCSI <span class='colorbox' id='colorbox51'><span id='textcolor52'><span class='ec-qplb-'>|#|</span></span></span> 2 <span class='ts1-qplr-'>× </span>Judge for University Life showcase, 2017, UCSI <span class='colorbox' id='colorbox53'><span id='textcolor54'><span class='ec-qplb-'>|#|</span></span></span> Industrial internship visits, 2016–2017,
+UCSI <span class='colorbox' id='colorbox55'><span id='textcolor56'><span class='ec-qplb-'>|#|</span></span></span> Guest lecture for Computer Science students, Nov/2014, UK <span class='colorbox' id='colorbox57'><span id='textcolor58'><span class='ec-qplb-'>|#|</span></span></span> Speaker at Rank Prize AI Symposium, UK
+26-29/Mar/2012 <span class='colorbox' id='colorbox59'><span id='textcolor60'><span class='ec-qplb-'>|#|</span></span></span> Contributed to conferences, presentations or research exhibitions in UK, Sweden, Italy, France, Poland,
+Hungary, Lebanon, Malaysia, etc.
+</p><!-- l. 32 --><p class='noindent'>
+</p>
+   <h3 class='sectionHead' id='admin-positions'><span class='titlemark'>8    </span> <a id='x1-90008'></a>Admin Positions</h3>
+<!-- l. 1 --><p class='noindent'><span class='colorbox' id='colorbox61'><span id='textcolor62'><span class='ec-qplb-'>|#|</span></span></span>Head of Data Science <span class='colorbox' id='colorbox63'><span id='textcolor64'><span class='ec-qplb-'>|#|</span></span></span> Head of Data <span class='colorbox' id='colorbox65'><span id='textcolor66'><span class='ec-qplb-'>|#|</span></span></span> CTO <span class='colorbox' id='colorbox67'><span id='textcolor68'><span class='ec-qplb-'>|#|</span></span></span> Chief Data Scientist <span class='colorbox' id='colorbox69'><span id='textcolor70'><span class='ec-qplb-'>|#|</span></span></span> Head of R&amp;D <span class='colorbox' id='colorbox71'><span id='textcolor72'><span class='ec-qplb-'>|#|</span></span></span> Member of Research &amp; Postgraduate Studies
+(REPOST) Committee, Jun/2015–Apr/2018, UCSI <span class='colorbox' id='colorbox73'><span id='textcolor74'><span class='ec-qplb-'>|#|</span></span></span> Member of FOBIS Green ICE research strategy task force,
+Jul/2016–Apr/2018, UCSI <span class='colorbox' id='colorbox75'><span id='textcolor76'><span class='ec-qplb-'>|#|</span></span></span> Departmental Representative, 2015, UCSI library
+</p><!-- l. 35 --><p class='noindent'>
+</p>
+   <h3 class='sectionHead' id='academic-courses-created'><span class='titlemark'>9    </span> <a id='x1-100009'></a>Academic Courses Created</h3>
+<!-- l. 1 --><p class='noindent'><span class='colorbox' id='colorbox77'><span id='textcolor78'><span class='ec-qplb-'>|#|</span></span></span>"Machine Learning &amp; Data Mining", UCSI <span class='colorbox' id='colorbox79'><span id='textcolor80'><span class='ec-qplb-'>|#|</span></span></span> "Fundamentals of Data Science", UCSI <span class='colorbox' id='colorbox81'><span id='textcolor82'><span class='ec-qplb-'>|#|</span></span></span> "Advanced Business Analytics", UCSI <span class='colorbox' id='colorbox83'><span id='textcolor84'><span class='ec-qplb-'>|#|</span></span></span>
+"Data Mining", UCSI <span class='colorbox' id='colorbox85'><span id='textcolor86'><span class='ec-qplb-'>|#|</span></span></span> "Problem Solving Using Analytics Tools", UCSI
+</p><!-- l. 38 --><p class='noindent'>
+</p>
+   <h3 class='sectionHead' id='undergraduate-final-year-projects-supervised'><span class='titlemark'>10    </span> <a id='x1-1100010'></a>Undergraduate Final Year Projects Supervised</h3>
+     <ul class='itemize1'>
+     <li class='itemize'>"Room Rent Mobile Application", Ng Teck Kan, Sept/2015–Apr/2016, UCSI.
+     </li>
+     <li class='itemize'>"Mobile Application of Pizza Hut", Wong Wei Yip, Sept/2015-Apr/2016, UCSI.
+     </li>
+     <li class='itemize'>"Application to Improve Shopper Experience", Srinivasan Sundaresan, Sept/2015–Apr/2016, UCSI.
+     </li>
+     <li class='itemize'>"Developing Health and Fitness Mobile Application", Yazan Othman, May–Dec/2016, UCSI.
+     </li>
+     <li class='itemize'>"Car Rental Mobile Application", Lim Kim Liang, Sept/2016–Apr/2017, UCSI.
+     </li>
+     <li class='itemize'>"Online Jewellery Ordering System with QR Code", Kong Cen Jin, Jan–Aug/2017, UCSI.
+     </li>
+     <li class='itemize'>"Information System for Façade Industry", Christopher See Tow, Jan-Aug/2017, UCSI.
+     </li>
+     <li class='itemize'>"Color Identification Mobile Application", Loo Kah Heng, May–Dec/2017, UCSI.
+                                                                                                
+                                                                                                
+     </li>
+     <li class='itemize'>"Mobile Application for Human Safety", Yau Han Jui, Sept 2017–Apr/2018, UCSI.
+     </li>
+     <li class='itemize'>"E-commerce System With Speech Recognition", Ali Abbas Kowayed, Sept/2017–Apr/2018, UCSI.
+     </li>
+     <li class='itemize'>"Smart Android Class Attendance Application", Chan Wai Jin Ephraim, Sept/2017–Apr/2018, UCSI.
+     </li>
+     <li class='itemize'>"Common Skin Disease Image Classification System", Louis Juliendo, Jan-Aug/2018, UCSI.
+     </li>
+     <li class='itemize'>"Wifi Hotspot Attendance System Using Wireless Hotspots", Yang Boning, Jan-Aug/2018, UCSI.
+     </li>
+     <li class='itemize'>"Intelligent Tourist Information System", Djumakhodjaev Akmal, Jan-Aug/2018, UCSI.
+     </li>
+     <li class='itemize'>"Facilities Booking System", Tong Juns, Sept/2017 – Apr/2018, UCSI.
+     </li>
+     <li class='itemize'>—————————— Below: As the second supervisor ——————————
+     </li>
+     <li class='itemize'>"Mobile Platform for Queue Management", Tang Szu Xi, May–Dec/2015, UCSI.
+     </li>
+     <li class='itemize'>"Mobile Food Waste Reduction Application", Imran Yusuf Ibrahim, Jan–Aug/2017, UCSI.
+     </li>
+     <li class='itemize'>"ADHD Application", Emil Anthony Arputham, Sept/2017–Apr/2018, UCSI.
+     </li>
+     <li class='itemize'>"Fingerprint Based Student Attendance System", Ezurike Lovina Uju, Jan-Aug/2018, UCSI.
+     </li>
+     <li class='itemize'>"Android-based Appointment Scheduling Application", Oguaju Benjamin, Jan-Aug/2018, UCSI.
+     </li>
+     <li class='itemize'>"Mobile Application for Apartment Residents", Mohammad Shazreen Haini, Jan-Aug/2018, UCSI.</li></ul>
+<!-- l. 41 --><p class='noindent'>
+</p>
+   <h3 class='sectionHead' id='training-courses-attended'><span class='titlemark'>11    </span> <a id='x1-1200011'></a>Training Courses Attended</h3>
+<!-- l. 1 --><p class='noindent'><span class='colorbox' id='colorbox87'><span id='textcolor88'><span class='ec-qplb-'>|#|</span></span></span>Various data &amp; Google Cloud courses from Google, 2021-2024, AirAsia <span class='colorbox' id='colorbox89'><span id='textcolor90'><span class='ec-qplb-'>|#|</span></span></span> Various computer security &amp; safety courses,
+2021-2024, AirAsia <span class='colorbox' id='colorbox91'><span id='textcolor92'><span class='ec-qplb-'>|#|</span></span></span> Data Security &amp; Privacy Workgroup, 2022, AirAsia <span class='colorbox' id='colorbox93'><span id='textcolor94'><span class='ec-qplb-'>|#|</span></span></span> Information Security Awareness Education,
+Apr/2022, AirAsia <span class='colorbox' id='colorbox95'><span id='textcolor96'><span class='ec-qplb-'>|#|</span></span></span> Visual AIoT Workshop, Intel, Mar/2019, Malaysia <span class='colorbox' id='colorbox97'><span id='textcolor98'><span class='ec-qplb-'>|#|</span></span></span> Foundation in Tertiary Teaching (FTT), 2016, UCSI <span class='colorbox' id='colorbox99'><span id='textcolor100'><span class='ec-qplb-'>|#|</span></span></span> 2
+<span class='ts1-qplr-'>× </span>Level 2 Award in Health &amp; Safety in Workplace, Oct/2010-Apr/2014, UK <span class='colorbox' id='colorbox101'><span id='textcolor102'><span class='ec-qplb-'>|#|</span></span></span> International Computer Vision Summer School,
+11-16/Jul/2011, Italy <span class='colorbox' id='colorbox103'><span id='textcolor104'><span class='ec-qplb-'>|#|</span></span></span> Effective Learning, Teaching &amp; Assessment Practices for Tutors &amp; Demonstrators, Jan/2011,
+UK
+</p><!-- l. 44 --><p class='noindent'>
+</p>
+   <h3 class='sectionHead' id='nonconference-poster-presentations'><span class='titlemark'>12    </span> <a id='x1-1300012'></a>Non-conference Poster Presentations</h3>
+                                                                                                
+                                                                                                
+<!-- l. 24 --><p class='noindent'><span class='colorbox' id='colorbox105'><span id='textcolor106'><span class='ec-qplb-'>|#|</span></span></span>"Real-time Intelligent Human Posture Recognition for video surveillance systems"; Monash University (Malaysia Campus);
+Jun/2009 <span class='colorbox' id='colorbox107'><span id='textcolor108'><span class='ec-qplb-'>|#|</span></span></span> "Interactive Multimedia E-learning Package using Adobe Flash and Action Script"; IIUM KERIE; Jan/2009 <span class='colorbox' id='colorbox109'><span id='textcolor110'><span class='ec-qplb-'>|#|</span></span></span> "Online
+conference attendance system"; IIUM KERIE; Jan/2009 <span class='colorbox' id='colorbox111'><span id='textcolor112'><span class='ec-qplb-'>|#|</span></span></span> "Capacitive Transducer Circuits for Liquid Level Measurement";
+IIUM KERIE; Oct/2007 <span class='colorbox' id='colorbox113'><span id='textcolor114'><span class='ec-qplb-'>|#|</span></span></span> "Intelligent Human Posture Recognition in Video Sequences"; FYP Exhibition; IIUM;
+Dec/2009
+</p><!-- l. 47 --><p class='noindent'>
+</p>
+   <h3 class='sectionHead' id='languages'><span class='titlemark'>13    </span> <a id='x1-1400013'></a>Languages</h3>
+<!-- l. 1 --><p class='noindent'><span class='colorbox' id='colorbox115'><span id='textcolor116'><span class='ec-qplb-'>|#|</span></span></span>English: Fluent; First language; Education, work, life, etc. have been in English.<br class='newline' /><span class='colorbox' id='colorbox117'><span id='textcolor118'><span class='ec-qplb-'>|#|</span></span></span>Burmese (not fluent) <span class='colorbox' id='colorbox119'><span id='textcolor120'><span class='ec-qplb-'>|#|</span></span></span> Arabic (a little) <span class='colorbox' id='colorbox121'><span id='textcolor122'><span class='ec-qplb-'>|#|</span></span></span> Malay (a little)
+</p>
+    
+</body> 
+</html>
